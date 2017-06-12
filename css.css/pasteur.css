@@ -1,0 +1,30 @@
+
+
+#tittle{
+  color: #5D2B0E;
+  text-align: center;
+  font-size: 80px;
+  margin-bottom: 20px;
+} 
+.quote{
+  text-align: center;
+  color: #5D2B0E;
+  font-size: 20px;
+ 
+}
+.quote2{
+  color: #5D2B0E;
+  font-size: 20px;
+  padding-left: 480px;
+  float: left;
+}
+.bothquotes{
+  padding-bottom: 50px;
+}
+p {
+  font-size:19px;
+  color: #5D2B0E;
+}
+body{
+  text-align: center;
+}
